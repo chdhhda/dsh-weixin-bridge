@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "WeChat Channel",
+    "description": "Talk to this Agent from WeChat over the official WeChat bot backend (QR pairing). Each WeChat conversation keeps its own DSH session."
+  }
+}

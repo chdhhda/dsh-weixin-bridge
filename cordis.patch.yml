@@ -1,0 +1,10 @@
+- insert:
+    - id: dsh-weixin
+      name: '@local/dsh-weixin'
+      config: {}
+      # 工作目录、白名单等请写在你自己 profile 的 cordis.patch.yml 里，例如：
+      #   - id: dsh-weixin
+      #     name: "@local/dsh-weixin"
+      #     config:
+      #       cwd: '/path/to/your/workspace'
+      #       allowUsers: []

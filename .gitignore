@@ -1,0 +1,16 @@
+node_modules/
+qr.png
+*.log
+npm-debug.log*
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 任何本机凭证都不属于仓库
+credentials.json
+sessions.json
+status.json
